@@ -3,6 +3,8 @@
 ## Description
 Information on Automotive LIN Bus Modules/Controls
 
+Good practical LIN but modding info: **https://bitzero.tech/posts/2022/11/30/hacking-my-cars-climate-controls-lin-reverse-engineering**
+
 ## LIN Modules
 
 | Module Name | Description | Part Number (PN) |
