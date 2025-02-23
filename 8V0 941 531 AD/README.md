@@ -24,7 +24,7 @@ A 4 Wire Audi Headlight Control Module
 | 3 | brown | GND |
 | 4 | green | Unknown |
 
-#Images
+##Images
 ![LIN Module](images/lin_module.jpg)
 ![LIN Module Board Side 1](images/lin_module_Board_Side_1.jpg)
 ![LIN Module Board Side 1](images/lin_module_Board_Side_2.jpg)
